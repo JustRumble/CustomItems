@@ -1,0 +1,4 @@
+name: customitems
+version: '${project.version}'
+main: dev.rumble.customitems.Customitems
+api-version: '1.21'
