@@ -13,3 +13,5 @@ CustomItems is a Minecraft 1.21 plugin that adds items and armor to your Minecra
 - True golden armor
 
 > It is recommended to integrate the texture pack into the Minecraft server to enjoy the plugin
+
+Have fun!
