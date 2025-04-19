@@ -5,6 +5,7 @@ CustomItems is a Minecraft 1.21 plugin that adds items and armor to your Minecra
 - Blessed sword
 - Cursed sword
 - Neutral sword
+- Venom sword
 - Super pickaxe
 
 ## Armor:
