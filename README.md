@@ -2,9 +2,9 @@
 CustomItems is a Minecraft 1.21 plugin that adds items and armor to your Minecraft server!
 
 ## Items:
-- Blessed sword
+- Blessed sword*
 - Cursed sword
-- Neutral sword
+- Neutral sword*
 - Venom sword
 - Super pickaxe
 
@@ -14,5 +14,7 @@ CustomItems is a Minecraft 1.21 plugin that adds items and armor to your Minecra
 - True golden armor
 
 > It is recommended to integrate the texture pack into the Minecraft server to enjoy the plugin
+
+(*) These items have a *special ability*
 
 Have fun!
